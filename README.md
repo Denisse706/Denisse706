@@ -1,5 +1,7 @@
-<h1 align="center"> Hi!  <img id="emojiPreview" src="https://cdn3.emoji.gg/emojis/58747-alfredstern.png" alt="AlfredStern Emoji" class="item-icon" style="max-width: 100%; height: auto;" width="128" height="128">, I'm Daria! </h1>
- <div align="center">
+<div align="center">
+   
+<h1> Hi!, I'm Daria!<img id="emojiPreview" src="https://cdn3.emoji.gg/emojis/58747-alfredstern.png" alt="AlfredStern Emoji" class="item-icon" style="max-width: 100%; height: auto;" width="128" height="128"> </h1>
+ 
  
 </div>
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
