@@ -1,13 +1,13 @@
-<h1 align="center"> Hi!  <img id="emojiPreview" src="https://cdn3.emoji.gg/emojis/58747-alfredstern.png" alt="AlfredStern Emoji" class="item-icon" style="max-width: 100%; height: auto;" width="128" height="128">, I'm Daria! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
+<h1 align="center"> Hi!  <img id="emojiPreview" src="https://cdn3.emoji.gg/emojis/58747-alfredstern.png" alt="AlfredStern Emoji" class="item-icon" style="max-width: 100%; height: auto;" width="128" height="128">, I'm Daria! </h1>
  <div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
+ 
 </div>
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I am Daria, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 
 <br>
 
-  
+  <div><img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRndzZqZGZ6bDJ1c29tc2pxb2xuNGk2eHlldm1oZ2I1Nm5laGk5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sl0dFdyB7RZudnU2OL/giphy.gif" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;" width="100%" height="100%" alt="Bad Cat Sticker by Bel Diniz"></div>
 
 
  -  🔭 I’m currently working on something cool 😉
