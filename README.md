@@ -1,11 +1,11 @@
 <div align="center">
    
-<h1> Hi!, I'm Daria!<img id="emojiPreview" src="https://cdn3.emoji.gg/emojis/58747-alfredstern.png" alt="AlfredStern Emoji" class="item-icon" style="max-width: 100%; height: auto;" width="128" height="128"> </h1>
+<h1> Hi!, I'm Denise!<img id="emojiPreview" src="https://cdn3.emoji.gg/emojis/58747-alfredstern.png" alt="AlfredStern Emoji" class="item-icon" style="max-width: 100%; height: auto;" width="128" height="128"> </h1>
  
  
 </div>
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Daria, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+I am Denise, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 
 <br>
 
